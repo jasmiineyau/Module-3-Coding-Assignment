@@ -18,19 +18,24 @@ body{
 	color:#696C6F; 
 }
 
-.row{
-	margin: 20px;
-}
-
 .center{
 	width: 90%;
 	background-color: #696C6F;
 
 }
-.container
+.content-box
 {
+	margin: 20px;
+	width: auto;
+	height: auto;
+	padding: 20px;
 	background-color: #8E988D;
 }
+
+.row{
+	margin: 20px;
+}
+
 .text-center{
 	font-size: 30px;
 }
