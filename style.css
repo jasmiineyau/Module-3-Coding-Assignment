@@ -18,6 +18,10 @@ body{
 	color:#696C6F; 
 }
 
+.row{
+	margin: 20px;
+}
+
 .center{
 	width: 90%;
 	background-color: #696C6F;
